@@ -1,10 +1,10 @@
-working
-now: @stripe
+#### working
+now: @stripe\
 previously: @msft, @bt
 
-learning
-education: @uiuc
+#### learning
+degree: ece@uiuc
 
-swimming
-coach: @swaq
-previously: @c, @west, @heat
+#### swimming
+coach: @swaq\
+previously: ag coach@c, @west, @heat
