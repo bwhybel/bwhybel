@@ -3,7 +3,7 @@ now: @stripe\
 previously: @msft, @bt
 
 #### learning
-now: ruby@work, c++@freetime
+now: `ruby`@work, `c++`@freetime\
 degree: ece@uiuc
 
 #### swimming
